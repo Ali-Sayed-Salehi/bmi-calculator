@@ -1,0 +1,25 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "A calculator web app",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ali-Sayed-Salehi/calculator.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Ali Sayed Salehi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ali-Sayed-Salehi/calculator/issues"
+  },
+  "homepage": "https://github.com/Ali-Sayed-Salehi/calculator#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
